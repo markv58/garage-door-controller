@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Software to monitor and control garage doors via a raspberry pi."""
 
 import time, syslog, uuid
