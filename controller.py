@@ -9,6 +9,7 @@ import json
 import httplib
 import urllib
 import subprocess
+import requests
 
 from twisted.internet import task
 from twisted.internet import reactor
